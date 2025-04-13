@@ -26,13 +26,20 @@
 - `lyre.dict.yaml` ： 混合了所有词库的文件。综合词库取自于下列的子词库，但之间相互独立
   - `electronic.lyre.dict.yaml` ： 电子音乐
   - `classical.lyre.dict.yaml` ： 古典
-  - `mix.lyre.dict.yaml` ：混音、后期处理
+  - `mix.lyre.dict.yaml` ： 混音、后期处理
+  - `theory.lyre.dict.yaml` : 音乐理论
 
 **词库还未完成，未来还会继续补充**
 
 ### 进度
 
-- [ ] 词库优化，去除无用词
+#### 长期任务
+
+- 词库优化，去除无用词
+- 查缺补漏
+
+#### 待完成
+
 - [ ] 古典音乐【部分完成】
 - [ ] 电子音乐【部分完成】
 - [ ] 流行音乐
