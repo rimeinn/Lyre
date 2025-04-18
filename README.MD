@@ -24,9 +24,12 @@
 ## 文件说明
 
 - `lyre.dict.yaml` ： 混合了所有词库的文件。综合词库取自于下列的子词库，但之间相互独立
-  - `electronic.lyre.dict.yaml` ： 电子音乐
+  - `chinese.lyre.dict.yaml` : 中国（传统）音乐
   - `classical.lyre.dict.yaml` ： 古典
+  - `electronic.lyre.dict.yaml` ： 电子音乐
+  - `jazz.lyre.dict.yaml` ： 爵士音乐【待完成】
   - `mix.lyre.dict.yaml` ： 混音、后期处理
+  - `popular.lyre.dict.yaml` ： 流行音乐【待完成】
   - `theory.lyre.dict.yaml` : 音乐理论
 
 **词库还未完成，未来还会继续补充**
