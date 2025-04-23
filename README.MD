@@ -57,7 +57,7 @@
 | --------------------------------- | :------------------: | :------: | ------------------------------------------------------ |
 | `dicts\classical.lyre.dict.yaml`  |     **古典音乐**     | 部分完成 | 补充艺术家名字及其它词条                               |
 | `dicts\electronic.lyre.dict.yaml` |     **电子音乐**     | 部分完成 | 补充合成器词条                                         |
-| `dicts\theory.lyre.dict.yam`      |     **音乐理论**     | 基本完成 | 查缺补漏                                               |
+| `dicts\theory.lyre.dict.yaml`      |     **音乐理论**     | 基本完成 | 查缺补漏                                               |
 | `dicts\chinese.lyre.dict.yaml`    | **中国（传统）音乐** | 基本完成 | 未来再考虑是否补充词库                                 |
 | `dicts\mix.lyre.dict.yaml`        |  **混音及后期处理**  | 基本完成 | 查缺补漏                                               |
 | `dicts\jazz.lyre.dict.yaml`       |       **爵士**       |  未开始  | 计划资料多了再做                                       |
