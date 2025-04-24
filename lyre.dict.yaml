@@ -9,7 +9,7 @@
 
 ---
 name: lyre
-version: "2025.4.17"
+version: "2025.4.24"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
