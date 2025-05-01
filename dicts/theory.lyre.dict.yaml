@@ -8,7 +8,7 @@
 #
 # 音有高低、强弱、长短、音色等四种性质。
 ---
-name: lyre.theory
+name: theory.lyre
 version: "2025.4.14"
 sort: by_weight
 use_preset_vocabulary: false

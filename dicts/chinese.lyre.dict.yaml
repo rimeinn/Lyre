@@ -10,7 +10,7 @@
 #
 
 ---
-name: lyre.chinese
+name: chinese.lyre
 version: "2025.4.13"
 sort: by_weight
 use_preset_vocabulary: false

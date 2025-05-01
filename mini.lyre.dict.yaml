@@ -7,7 +7,7 @@
 # 小词库
 
 ---
-name: lyre.mini
+name: mini.lyre
 version: "2025.5.1"
 sort: by_weight
 use_preset_vocabulary: false

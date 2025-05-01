@@ -12,7 +12,7 @@
 #
 # 苏维埃艺术家对公正的批判所作现实而有创造性的答复
 ---
-name: lyre.classical
+name: classical.lyre
 version: "2025.5.1"
 sort: by_weight
 use_preset_vocabulary: false

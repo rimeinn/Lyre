@@ -9,7 +9,7 @@
 # 爵士我也不知道怎么介绍，它在音乐上非常多元化。
 # 未来再补充吧
 ---
-name: lyre.jazz
+name: jazz.lyre
 version: "2025.4.17"
 sort: by_weight
 use_preset_vocabulary: false

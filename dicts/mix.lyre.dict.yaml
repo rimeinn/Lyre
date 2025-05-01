@@ -12,7 +12,7 @@
 
 
 ---
-name: lyre.mix
+name: mix.lyre
 version: "2025.4.12"
 sort: by_weight
 use_preset_vocabulary: false

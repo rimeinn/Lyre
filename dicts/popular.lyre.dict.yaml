@@ -10,7 +10,7 @@
 # 自20世纪50年代起“pop”一词特指非古典音乐，通常是指甲壳虫乐队、滚石乐队等表演者演唱的歌曲
 # 
 ---
-name: lyre.popular
+name: popular.lyre
 version: "2025.4.17"
 sort: by_weight
 use_preset_vocabulary: false
