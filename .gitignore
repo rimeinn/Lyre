@@ -1,4 +1,5 @@
-RES/*
+/RES
 .DS_Store
 *.txt
 *.pdf
+/agent
