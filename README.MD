@@ -49,7 +49,7 @@
   - `mix.lyre.dict.yaml` ： 混音、后期处理
   - `popular.lyre.dict.yaml` ： 流行音乐 _【待完成】_
   - `theory.lyre.dict.yaml` : 音乐理论
-- `Bagatelle.lyre.dict.yaml` : 精简后的小词库
+- `Bagatelle.lyre.dict.yaml` : 精简后的小词库(原来的mini)
 - `etude.lyre.dict.yaml` : 面向音乐爱好者的，比mini更全面一些的词库
 
 1. **所有词库相互独立**，所以词库内容相互重叠，如果只想用其中几个词库，请自行去重使用。
