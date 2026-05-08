@@ -5,11 +5,14 @@
 # 
 
 # 小词库
-# 保留了一些译名的不同音译版本，可按需删除使用
 #
+# 面向非音乐爱好者的词库
+# 原先的mini词库 
+#
+# 器乐小品
 ---
-name: mini.lyre
-version: "2025.5.5"
+name: Bagatelle.lyre
+version: "2026.5.8"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
