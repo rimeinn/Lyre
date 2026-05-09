@@ -12,7 +12,7 @@
 # 器乐小品
 ---
 name: Bagatelle.lyre
-version: "2026.5.8"
+version: "2026.5.9"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -321,6 +321,7 @@ columns:
 弗朗茨·舒伯特
 弗雷
 佛教音乐
+浮点
 符点
 符干
 符头
@@ -774,6 +775,7 @@ columns:
 铙钹
 尼伯龙根的指环
 尼尔森
+尼尔森斯
 尼基施
 尼科莱
 念白
@@ -1189,6 +1191,7 @@ columns:
 压缩器
 哑剧
 雅纳切克
+雅尼克
 阉伶歌手
 延迟器
 延留音
