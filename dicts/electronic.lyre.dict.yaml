@@ -11,7 +11,7 @@
 # 
 ---
 name: electronic.lyre
-version: "2025.4.12"
+version: "2026.5.9"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -1243,3 +1243,12 @@ R44
 USB接口
 VU表
 XG格式
+神游舞曲
+回授
+模块合成器
+包络
+科技舞曲
+智能舞曲
+moog
+浩室
+回响贝斯
